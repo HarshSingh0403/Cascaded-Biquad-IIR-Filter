@@ -99,5 +99,4 @@ module tb_cascaded_biquad;
         $display("==== SIMULATION COMPLETE ====");
         $finish;
     end
-
 endmodule
